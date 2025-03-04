@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá! Eu sou Isaac Porpino, tenho 19 anos e sou estudante de Engenharia de Software. Sou desenvolvedor Fullstack com experiência em diversas tecnologias e apaixonado por resolver problemas através da programação.<br><br>🌟 Habilidades principais:<br><br>Desenvolvimento web: HTML, CSS, JavaScript, React, Node.js,<br>Banco de dados: MySQL, MongoDB<br>Versionamento de código com Git<br><br>🚀 Atualmente, estou buscando aprimorar minhas habilidades em arquitetura de software e DevOps, além de contribuir para projetos open source.</p>
+<p align="left">👋 Olá! Eu sou Isaac Porpino, tenho 19 anos e sou estudante de Engenharia de Software. Sou desenvolvedor Fullstack com experiência em diversas tecnologias e apaixonado por resolver problemas através da programação.<br><br>🌟 Habilidades principais:<br><br>Desenvolvimento web: HTML, CSS, JavaScript, React, Node.js,<br>Banco de dados: MySQL, MongoDB<br>Versionamento de código com Git<br><br>🚀 Atualmente, estou buscando aprimorar minhas habilidades em arquitetura de software, além de contribuir para projetos open source.</p>
 
 ###
 
