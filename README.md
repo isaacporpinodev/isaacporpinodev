@@ -82,12 +82,12 @@
 
 <br clear="both">
 
-<picture data-importer="pacman">
+<div align="center">
   <img
     alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/isaacporpinodev/isaacporpinodev/pacman-output/breakout-contribution-graph.svg?game=breakout"
+    src="https://raw.githubusercontent.com/isaacporpinodev/isaacporpinodev/pacman-output/breakout-contribution-graph-dark.svg?game=breakout"
   />
-</picture>
+</div>
 
 <div data-importer="border">
 
