@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 data-importer="text" align="center">👨🏻‍💻 Sou Isaac Porpino, Software Developer.</h2>
+<h2 data-importer="text" align="center">👨🏻‍💻 Isaac Porpino, Software Developer.</h2>
 
 <br clear="both">
 
